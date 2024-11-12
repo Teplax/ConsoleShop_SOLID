@@ -1,4 +1,4 @@
-Magic numbers principle - [класс Product](https://github.com/Teplax/ConsoleShop_SOLID/blame/b850074892a2c9fbe4fc44a3c3da71e4a28c568c/src/goods/Product.java#L5)
+Magic numbers principle - [класс Product](https://github.com/Teplax/ConsoleShop_SOLID/blob/1dd5972f4da00df5b8b434466d92d517f52a9acb/src/goods/Product.java#L5)
 
 DRY - [класс Main](Main.printCatalogue)
 SOLID:
