@@ -1,6 +1,5 @@
 package goods;
 
-import java.util.Scanner;
 
 public abstract class Product implements Ratable{
     public static final double ROUND_RATING = 10.0;//Magic numbers principle - вместо чисел используются константы.
@@ -9,7 +8,6 @@ public abstract class Product implements Ratable{
     public static final double ROUNDING = 100.0;
     private String name;
     private double price;
-//    private int count;
     private int voteSum;
     private int votesQantity;
 

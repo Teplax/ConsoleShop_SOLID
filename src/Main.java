@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 
 public class Main {
-//    public static final double ROUND = 100.0;
     public static void main(String[] args) {
         Liquid_Dairy milk = new Liquid_Dairy("Молоко Весёлый молочник", 125, 1.4, 3.2);
         Liquid_Dairy kefir = new Liquid_Dairy("Кефир Пискарёвский", 79.9, 0.9, 2.5);
