@@ -1,4 +1,4 @@
-Magic numbers principle - [класс Product](goods/Product.java:6)
+Magic numbers principle - [класс Product](src/goods/Product.java:6)
 
 DRY - [класс Main](Main.printCatalogue)
 SOLID:
