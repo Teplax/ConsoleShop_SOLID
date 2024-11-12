@@ -1,4 +1,5 @@
 Magic numbers principle - [класс Product](goods/Product.java:6)
+
 DRY - [класс Main](Main.printCatalogue)
 SOLID:
 1. Single-responsibility principle - [класс Liquid_Dairy](goods.Liquid_Dairy)
